@@ -14,7 +14,7 @@ public class SchedulerClass {
 
     @Scheduled(fixedRate = 500)
     public void logCurrentTimeAtSpeceficIntrevel() {
-        logger.info("Current time is {}",localDate);
+        logger.info("Current time is {}", localDate);
 
     }
 
