@@ -1,6 +1,5 @@
 package com.spirngbootfeatures.consumingrest.ConsumingRest.controller;
 
-import com.spirngbootfeatures.consumingrest.ConsumingRest.model.JsonData;
 import com.spirngbootfeatures.consumingrest.ConsumingRest.model.MockData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
